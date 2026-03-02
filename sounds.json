@@ -219,31 +219,4 @@
     { "id": "noteblock_guitar", "name": "Note Block - Guitar", "source": "Minecraft", "tags": ["note"] },
     { "id": "noteblock_flute", "name": "Note Block - Flute", "source": "Minecraft", "tags": ["note"] },
     { "id": "noteblock_pling", "name": "Note Block - Pling", "source": "Minecraft", "tags": ["note"] },
-	
-	{ "id": "fireinthehole", "name": "FIRE IN THE HOLE", "source": "Geometry Dash" },
-    { "id": "wateronthehill", "name": "WATER ON THE HILL", "source": "Geometry Dash" },
-    { "id": "gdexplosion", "name": "Explosion", "source": "Geometry Dash" },
-    { "id": "geometrydash", "name": "GEOMETRY DASH", "source": "Geometry Dash" },
-    { "id": "rattledash", "name": "Rattledash Scream", "source": "Geometry Dash" },
-    { "id": "stylophone", "name": "Stylophone", "source": "lewisjohnmusic", "tags": ["note"] },
-    { "id": "808cowbell", "emoji": "💡", "name": "Phonk Cowbell", "source": "TR-808", "tags": ["note"] },
-    { "id": "ohoho", "emoji": "🎅🏻", "name": "Oh ho ho", "source": "IdkSterling" },
-    { "id": "huhcat", "name": "Huh", "source": "Unknown" },
-    { "id": "huhdouyin", "name": "Huh", "source": "Douyin" },
-    { "id": "doorbellcat", "name": "Doorbell Cat", "source": "Unknown" },
-    { "id": "meowsynth", "name": "Meow Synth", "source": "Knobster [Baksik the Cat]", "tags": ["note"] },
-
-    { "id": "ohmygod", "name": "OH MY GAWD", "source": "Vine - Unknown"},
-    { "id": "phub", "name": "Phub Community Intro", "source": "The Hub"},
-    { "id": "holdup", "name": "Hold up", "source": "Unknown"},
-    { "id": "whatthehell", "name": "WHAT THE HEEEEEEEELLL", "source": "Slv_Soundss"},
-    { "id": "aughhh", "emoji": "😴", "name": "AUGHHH", "source": "TikTok - Unknown" },
-    { "id": "goddamn", "emoji": "😩", "name": "Gah Dayum", "source": "Unknown" },
-    { "id": "awhellnaw", "name": "Aw Hell Naw", "source": "Unknown"},
-    { "id": "badtothebone", "name": "Bad To The Bone", "source": "George Thorogood & The Destroyers"},
-    { "id": "mutahar", "name": "Mutahar Laugh", "source": "SomeOrdinaryGamers"},
-	{ "id": "tadaandroid", "name": "Tada Notification", "source": "Android"},
-	{ "id": "indian", "name": "Mundian To Bach Ke", "source": "Panjabi MC"},
-	{ "id": "thicc", "name": "DAMN BOI HE THICC", "source": "Anthony Fantano"}
-	
 ]
